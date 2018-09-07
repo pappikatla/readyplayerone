@@ -51,6 +51,8 @@ Words from movie people about computing and their movie...
 
 ---
 # Resources   
-[Project Requirements](http://socialimps.keithpray.net/assignments/group-project/Movie_Group_Project_Details/)
+- [Project Requirements](http://socialimps.keithpray.net/assignments/group-project/Movie_Group_Project_Details/)
+- [Ready Player One IMDB](https://www.imdb.com/title/tt1677720/)
+
 
 Made with love by broke college students.
