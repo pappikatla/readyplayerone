@@ -3,11 +3,11 @@ Scroll down to learn more about *Ready Player One* and its relation to computing
 
 # Computing Technologies
 - ## Virtual Reality
-> - fun stuff
-- ## Video Games
-> - fun stuff
+  - a discussion on the above tech
+- ## Video Games 
+  - a discussion on the above tech
 - ## Body Suit
-> - fun stuff
+  - a discussion on the above tech
 
 ---
 # Topics Covered
