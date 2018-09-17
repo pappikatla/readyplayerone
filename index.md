@@ -12,11 +12,13 @@ Scroll down to learn more about *Ready Player One* and its relation to computing
     - Due to the world-wide use of the in-game currency, the movie’s virtual currency could resemble today’s cryptocurrencies
   - ### VR MMO
     - Communities of VR users have been a phenomenon since 2017 as seen in games such as VRChat
+
 ## Future
  - ### Complete VR Immersion
     - d
  - ### Control Technology with Mind
     - There are currently prosthetics that can be controlled using signals from the brain, but the current state of the technology is far from the state of control in *Ready Player One*
+
 ## Emerging
  - ### Control Technology with Mind
     - Omni-Directional Treadmill
