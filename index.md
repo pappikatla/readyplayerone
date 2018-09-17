@@ -2,12 +2,14 @@ Welcome to the CS3043 group project site for *Ready Player One*!
 Scroll down to learn more about *Ready Player One* and its relation to computing technologies.
 
 # Computing Technologies
-- ## Virtual Reality
-  - a discussion on the above tech
-- ## Video Games 
-  - a discussion on the above tech
-- ## Body Suit
-  - a discussion on the above tech
+- ## Existing
+  - Virtual Reality
+- ## Future
+  - Fun
+- ## Emerging
+  - Fun
+- ## Impossible
+  - Fun
 
 ---
 # Topics Covered
