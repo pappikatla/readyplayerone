@@ -74,7 +74,7 @@ Words from movie people about computing and their movie...
 ---
 # Meeting Minutes
 - [9/6 Meeting Minutes](9_6MeetingMinutes.pdf)
-- [9/17 Meeting Minutes] (MeetingMinutes9_17_18.pdf)
+- [9/17 Meeting Minutes](MeetingMinutes9_17_18.pdf)
 
 ---
 # Resources   
