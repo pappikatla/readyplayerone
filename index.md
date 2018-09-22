@@ -71,22 +71,22 @@ Orphaned teenager Wade Watts, also known as Parzival in the OASIS, befriends Art
 
 By driving backwards in the ever-shifting Manhattan cityscape racing mini game, Wade Watts and his friends obtain the first key. His crew becomes known as the High Fivers and consists of Parival, Art3mis, Aech, Daito, and Sho.
 
-After learning of Halliday’s several regrets in life including his love for his friend Marrow’s wife Kira, Watts and his crew travel to a recreation of the movie The Shining and find the second key.
+After learning of Halliday’s several regrets in life including his love for his friend Marrow’s wife Kira, Watts and his crew travel to a recreation of the movie *The Shining* and find the second key.
 
 Nolan Sorrento, CEO of IOI, hires a mercenary i-R0k to find the identity of Watts and offers Watts an important job at IOI. When Watts refuses the position, Sorrento bombs Watts home, killing Watts’ aunt. Art3mis, in real life, saves Watts, but is captured soon after by IOI and put into a servitude chamber.
 
 IOI discovers that the final key is found playing Halliday’s favorite Atari 2600 game on Planet Doom. In an effort to stop anyone from disrupting their operations, IOI protects the location with a force field. To stop IOI from obtaining the final key, Watts and his crew free Art3mis from the IOI facility and recruit OASIS players to fight against IOI.
 
-Art3mis deactivates the force field and as a last line of defense Sorrento activates a virtual bomb that kills all player avatars on Planet Doom. Because of a special coin that Watts obtained from the Archive Collector who is secretly Morrow’s avatar, Watts regenerates, completes the final challenge, and is awarded the 3rd key.
+Art3mis deactivates the force field and as a last line of defense Sorrento activates a virtual bomb that kills all player avatars on Planet Doom. Because of a special coin that Watts obtained earlier from the Archive Collector who is secretly Morrow’s avatar, Watts regenerates, completes the final challenge, and is awarded the 3rd key.
 
-Watts is taken to a special virtual room and given a contract to sign by Anorak. The contract is exact same contract that Morrow signed to turn over his share of Gregarious games, and since Watts is aware of the contract’s significance, he refuses to sign the contract. As a result of Watts’ wise decision, Anorak transforms into James Halliday, and Halliday graciously gives Watts the Golden Easter Egg and control over the OASIS.
+Watts is taken to a special virtual room and given a contract to sign by Anorak. The contract is the exact same contract that Morrow signed to turn over his share of Gregarious games, and since Watts is aware of the contract’s significance, he refuses to sign the contract. As a result of Watts’ wise decision, Anorak transforms into James Halliday, and Halliday graciously gives Watts the Golden Easter Egg and control over the OASIS.
 
 ### Post-Egg
 Sorrento is arrested for bombing Watts’ house and murdering his aunt.
 
-Watts bans IOI from forcing people into servitude and shuts down the OASIS twice a week to encourage people to live life in the real world
+Watts bans IOI from forcing people into servitude and shuts down the OASIS twice a week to encourage people to live life in the real world.
 
-Watts and Samantha Cook (Art3mis in real life) move in together 
+Watts and Samantha Cook (Art3mis in real life) move in together.
 
 
 ---
