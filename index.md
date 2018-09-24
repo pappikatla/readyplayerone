@@ -101,8 +101,9 @@ Words from movie people about computing and their movie...
 
 ---
 # Meeting Minutes
-- [9/6 Meeting Minutes](9_6MeetingMinutes.pdf)
-- [9/17 Meeting Minutes](MeetingMinutes9_17_18.pdf)
+- [9/6 Meeting Minutes](Meeting_Minutes/9_6MeetingMinutes.pdf)
+- [9/17 Meeting Minutes](Meeting_Minutes/MeetingMinutes9_17_18.pdf)
+- [9/22 Meeting Minutes](Meeting_Minutes/Minutes%209_22_18.pdf)
 
 ---
 # Resources   
@@ -119,6 +120,8 @@ Words from movie people about computing and their movie...
 4. Kinney, T. (2018). Internet Explained: The wacky world of VRChat. UWIRE Text. Uloop Inc.
 
 5. Wang, J., & Lindeman, R. (2015). Hybrid and Coordinated 3D Interaction in Immersive Virtual Environments. Worcester Polytechnic Institute, Worcester, MA.
+
+6. Federoff, M. A. (2002). Heuristics and usability guidelines for the creation and evaluation of fun in video games (Doctoral dissertation, Indiana University).
 
 
 Made with love by broke college students.
