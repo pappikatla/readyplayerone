@@ -6,17 +6,18 @@ Scroll down to learn more about *Ready Player One* and its relation to computing
   - ### Virtual Reality
     - Virtual 3D interactive worlds already exist with the help of specialized I/O equipment and powerful computers,
     users wear headsets and use controllers to interact with the virtual world [1]. 
-    Image: https://en.wikipedia.org/wiki/Virtual_reality#/media/File:Reality_check_ESA384313.jpg 
+    ![[7]](assets/virtual_reality.jpg)
+    
   - ### Facial Scanning
     - iPhone X implemented facial recognition and scanning, but the current technology is not as precise as in the movie. Current technology limitations include having a hard time differentiating children's faces and family members[2]. However this technology is improving fast using machine learning. 
-    Image: https://www.lifewire.com/how-does-a-computer-recognize-your-face-4154178
+    ![[8]](assets/facial_scanning.jpg)
   - ### Virtual Currency
     - Exists in many apps and games in the form of in-game currency and used for in-game purchases, directly connected to real world money, money is used to purchase the in-game currency through a store.
     - Due to the world-wide use of the in-game currency, the movie’s virtual currency could resemble today’s cryptocurrencies. Cryptocurrencies are based on block-chain technology and use cryptography to ensure fairness in the system[3]. Cryptocurrencies have a value in real world dollars, but most are not able to be converted directly.
-    Image: http://static.atimes.com/uploads/2018/02/iStock-886003872-630x378.jpg
+    ![[9]](assets/virtual_currency.jpg)
   - ### VR MMO
     - Communities of VR users have been a phenomenon since 2017 as seen in games such as VRChat. VR communities are in their early stages but many players are joining them and creating their own persona online. VR MMOs are currently gated behind having a strong PC to play as they require a decent amount of processing power[4].
-    Image: https://media.boingboing.net/wp-content/uploads/2018/01/VrChat-seizure.jpg
+    ![[10]](assets/vr_mmo.jpg)
 
 ## Future
  - ### Complete VR Immersion
@@ -122,6 +123,14 @@ Words from movie people about computing and their movie...
 5. Wang, J., & Lindeman, R. (2015). Hybrid and Coordinated 3D Interaction in Immersive Virtual Environments. Worcester Polytechnic Institute, Worcester, MA.
 
 6. Federoff, M. A. (2002). Heuristics and usability guidelines for the creation and evaluation of fun in video games (Doctoral dissertation, Indiana University).
+
+7. https://en.wikipedia.org/wiki/Virtual_reality#/media/File:Reality_check_ESA384313.jpg 
+
+8. https://www.lifewire.com/how-does-a-computer-recognize-your-face-4154178
+
+9. http://static.atimes.com/uploads/2018/02/iStock-886003872-630x378.jpg
+
+10. https://media.boingboing.net/wp-content/uploads/2018/01/VrChat-seizure.jpg
 
 
 Made with love by broke college students.
