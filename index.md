@@ -142,8 +142,21 @@ At the end of the movie, Halliday suggests his avatar is a copy of his subconsci
 
 ## Information Property - Ch.5
 Players preserve their identity in the OASIS by using aliases. Information only gets out if people reveal their identity. Wade reveals his real name putting him and his family in danger. Someone was tracked easily by first name without government resources.
+
+#### Players preserve their identity in the OASIS by using aliases
+The OASIS is a large virtual game world consists of people around the world, which brings up the information privacy concerns.
+
+In OASIS, players use aliases to protect their information privacy. Use of only alias means others do not have any access to one’s actual identity, which makes it to be almost impossible to steal one’s identity information from the game. After Watt passed the first challenge and get on the leaderboard in the OASIS, everyone in the OASIS knows “Parzival”, but no one knows his actual name or address. That shows people’s information privacy can be protected in OASIS.
+#### Information only gets out if people reveal their identity
+However, there are also some serious privacy issue in the OASIS. Just after Watt speak out his first name to Cook(Art3mis) and get spied by IOI, they managed to get all personal information about Watt through just a first name. They know his full name, address, appearance, etc. by just a first name without any government resources. This also put his family in danger.
+
+One other example is Watt’s team hacked Sorrento’s account with just a line of password (discussed above in Ch.3 section). This is also a severe problem OASIS has, which could lead to leak of personal identity and loss of wealth. That shows the single password authentication is sometimes unsafe. A article [R1] states that single password authentication method is always crackable, but with an additional authentication method - known as two-factor authentication. That will make the account really safe.
+
 ## Privacy and the Government - Ch.6
-This chapter is not relevant to the movie because the movie doesn’t focus or spend time on how the government works and its relation to OASIS.
+#### Although the government is not involved in the OASIS, Innovative Online Industries play as a role of the "government"
+While the government is not involved in the OASIS, the IOI’s loyalty center seems to be another form of government in the movie. They imprison people in the loyalty center and force them to work for the company. In both real world and OASIS, they have people to monitor them all the time, which means people will not have any privacy in the loyalty center.
+
+The omnipresent surveillance drones from IOI also makes people have almost no privacy in the real world as long as IOI know one’s identity. Watt was tracked all the time by the drones after he let them know his name. That means he has no privacy as long as IOI knows his identity and that also puts him in danger.
 ## Computer and Network Security - Ch.7
 The virtual currencies in the movie could be stolen if the server operating OASIS was attacked. A security flaw in OASIS log off protocol allowed for “hackers” to prevent users from logging off. OASIS only uses 1 factor authentication allowing for susceptibility and account loss.
 ## Computer Reliability - Ch.8
@@ -180,7 +193,15 @@ Watts and Samantha Cook (Art3mis in real life) move in together.
 
 ---
 # Movie Makers' Intent in Regards to Computing    
-Words from movie people about computing and their movie...
+- The director Spielberg believes VR will serves on a global scale and will probably be a new way of narrative storytelling in the near future. [R2]
+- He think VR will serve in lots of field such as: [R2]
+-- Virtual sceneries
+-- Education: virtual class
+-- Science
+-- Medicine: remote surgery
+- The author Cline also see a paradigm shift from traditional narrative method to VR. [R3]
+- They both have concerns about the addiction in VR. Cline thinks balance is important while Spielberg believes people should make their own choice. [R3]
+- “It [Ready Player One] wasn’t that far away from what I think is going to happen someday,” said Spielberg. [R3]
 
 ---
 # Societal Conclusions
@@ -270,7 +291,7 @@ IO8. Sigrist, R., Rauter, G., Marchal-Crespo, L., Riener, R., & Wolf, P. (n.d.).
 
 IO9. Vapenstad, C., Hofstad, E., Lango, T., Marvik, R., & Chmarra, M. (n.d.). Perceiving haptic feedback in virtual reality simulators.(Report). Surgical Endoscopy, 27(7), 2391–7. doi:10.1007/s00464-012-2745-y
 
-
-
-
+R1. Doug Barney, Single Password = Security Failure: How Two-Factor Authentication Saves the Day, (26 Sep. 2018) https://www.kaseya.com/blog/2016/10/14/single-password-security-failure-how-two-factor-authentication-saves-the-day/
+R2. Erik Davis, EXCLUSIVE INTERVIEW: STEVEN SPIELBERG ON ‘READY PLAYER ONE’ AND THE FUTURE OF VIRTUAL REALITY, (22 Sep. 2018) https://www.fandango.com/movie-news/exclusive-interview-steven-spielberg-on-ready-player-one-and-the-future-of-virtual-reality-753091
+R3. Josh Rottenberg, ‘Ready Player One’s’ Steven Spielberg and Ernest Cline on pooling their nostalgia to tell a new story, (26 Sep. 2018) http://www.latimes.com/entertainment/movies/la-ca-mn-ready-player-one-spielberg-cline-20180323-htmlstory.html
 Made with love by broke college students.
