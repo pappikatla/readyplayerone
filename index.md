@@ -2,15 +2,120 @@ Welcome to the CS3043 group project site for *Ready Player One*!
 Scroll down to learn more about *Ready Player One* and its relation to computing technologies.
 
 # Computing Technologies
-## Existing
-  - ### Virtual Reality
-    - Virtual 3D interactive worlds already exist with the help of specialized I/O equipment and powerful computers,
-    users wear headsets and use controllers to interact with the virtual world [1]. 
-    ![[7]](assets/virtual_reality.jpg)
-    
-  - ### Facial Scanning
-    - iPhone X implemented facial recognition and scanning, but the current technology is not as precise as in the movie. Current technology limitations include having a hard time differentiating children's faces and family members[2]. However this technology is improving fast using machine learning. 
-    ![[8]](assets/facial_scanning.jpg)
+## Virtual Reality
+   ![[7]](assets/VirtualRealityExample.jpg)
+   
+   <sup><sub>https://www.copperberg.com/mika-karaila-discusses-virtual-reality/<sub><sup>
+
+### VR Technology 
+  <details> 
+  <summary>
+   Expand
+  </summary>
+  
+Current State of VR:
+  
+Virtual Reality technology is a growing phenomenon currently gated by the requirement of a moderately strong pc [VR1]. The following specs are required to run oculus VR on “minimum settings”: Nvidia GTX 970, Intel i5-4950, 8gb+ RAM [VR1]. These parts aren’t top of the line but the cost of VR also includes the environment needed to run the VR. All interactive VR environments require controllers or input devices on top of the headset required to display the image to the user [VR2]. 
+
+Future State of VR:
+
+Using the current specs required to run VR and comparing that to technology found in a smartphone today because it is comparable size to a VR headset, will be a VR headset with computing power be viable in 2045?
+
+
+Current specs required to run VR:
+- The base clock speed for the gtx 970 is around 1050MHz[VR3]
+- The base clock speed for the i5-4950 is 3.3GHz [VR4]
+- 8 GBs of RAM needed
+
+
+Current specs of a smartphone:
+- Current phones have around 1.8-2Ghz processor speed [VR5]
+- Many phones have 4GBs of RAM [VR5]
+- Currently smart phones don’t use dedicated graphics cards and instead use on board chips such as the Adreno 530 found in many high end android phones, and it has a processing clock speed around 650 MHz [VR6]. 
+
+  ![[11]](assets/mobileprocessingtime.jpeg)
+<sup><sub> https://www.androidauthority.com/smartphone-performance-improvements-timeline-626109/ <sub><sup>
+
+Visual shows that yes in 27 years we will probably have the technology to run VR on headsets with computational power built in based on current specs and the trend of technology growth up until now.
+
+</details>
+
+### Cost of VR 
+  <details> 
+  <summary>
+   Expand
+  </summary>
+Current: Nvidia estimates that 99% of computers in 2016 couldn’t run VR programs [VR10]. Therefore a VR setup currently costs $600-800 for the VR equipment and another $1000-2000 for the computer that can run the VR programs [VR7]. The range of the computer is from $1000 which are the minimum requirements and up to $2000 for a computer with recommended requirements [VR7]. This means the buy in for VR is around $1700 dollars for entry level, and with evolving program requirements it would be much safer to buy in at $2700. 
+  
+  
+The median household income of a U.S. family is $59,000 [VR8]. So comparing the cost of a VR setup to a household income the calculated cost of a VR setup is 4.5% of a U.S. family income. Conclusively VR is currently too expensive to be a widespread technology.
+
+
+Future: 
+Looking at graph [VR9] it's obvious that the cost of personal computers and peripherals has been on the decline. This means that following this trend in 27 years in the future these products will be very cheap [VR9]. As more and more companies start to develop VR technology the cost has continually gone down, now consumers may use their smartphone instead of a computer, this means the VR quality is lower but the fact remains the VR buy in is cheaper [VR10]. 
+visual
+
+
+   ![[12]](assets/TechCostOverTime.jpg)
+   
+   
+Using these sources it is possible that in the future families of all income level may afford VR as seen in Ready Player One. There is ample evidence that the cost of VR will continually decline until 2045, with no evidence against it currently. Unless an unforeseen trend in increasing technology cost occurs, almost every consumer in the near future will be able to afford a VR setup.
+
+</details>
+
+   ## Facial Scanning
+  <details>
+    <summary>
+      Expand
+  </summary>
+
+
+Current: Facial Scanning technology currently isn’t advanced enough to be used in conjunction with VR as shown in the movie [FS1]. This is because most VR headsets don’t have enough space to have the receptors and space necessary to store facial images [FS1]. However in early 2018 VR headsets with eye tracking capabilities alongside with theorized emotion scanning mean this technology is commercially just around the corner [FS2]. This technology is already causing concerns for some organization such as the ACLU which argues this technology can be used to track private individuals and some researchers agree with this sentiment that VR facial tracking allows a company to record what grabs consumers attention and other metrics in a private environment that can be used for advertising [FS2] [FS3].
+
+
+Future: Facial Scanning technology is waiting on the hardware to be developed because there are already multiple software applications and SDKs that allow for facial or emotional scanning, and the reason they aren’t as advanced as they could be is the lack of data [FS4]. Depending on the product, some VR headsets already have emotional reading implemented in the form of electrodes that detect pressures of the user’s face and then match that with 10 pre-configured facial expressions [FS5]. The accuracy of this technology can be increased simply through calibration and continued use [FS5]. Therefore in 2045 it is very likely that the facial scanning and recognition in a VR headset will be as sophisticated as in Ready Player One.
+
+
+
+</details>
+
+
+![[8]](assets/facial_scanning.jpg)
+  
+## I/O Devices
+
+
+### Omnidirectional Treadmill
+<details>
+  <summary>
+    Expand
+    </summary>
+Current: Omnidirectional treadmills are currently being developed based off recent research that shows the viability of such a method for virtual reality [IO1]. Recent psychological research shows that omnidirectional treadmills actually improves cognitive understanding of the surrounding area [IO2]. Currently omnidirectional treadmills are being developed in two ways, one where there is no harness and therefore movement is freeform, this proves to be very hard in practice as movement away from the center has to be detected immediately, which is why many companies are using harnesses to secure safety [IO3]. 
+
+
+Future: Ongoing research is required to determine a safer and faster way to detect a user’s position deviating from the center [IO4]. There are many theories about how to solve this issue and many companies already have prototype treadmills that have a strong detection system but require further testing before products can become commercially safe. Unfortunately compared to the movie it doesn’t look possible to have the technology they have, as shown in picture below, the lack of size of the treadmill would make it very hard for the treadmill to determine distance away from middle without launching user into a wall.
+
+
+![[12]](assets/ready-player-one-OT.jpg)
+
+<sup><sub> https://variety.com/2018/digital/news/ready-player-one-vr-tech-1202739419/ <sup><sub>
+</details>
+  
+### Haptic Feedback
+<details>
+  <summary>
+    Expand
+  </summary>
+Current:Haptic feedback technology is currently in its early stages of development, many researchers are interested in what promise the technology holds [IO5]. There are very few examples of haptic technology currently as many are still being developed, but HaptX announced their haptic gloves which use hundred of mini air pockets that compress and decompress through software to generate pressure and feeling in the hands [IO6]. Currently these gloves are large and bulky, but don’t look too far off aesthetically from the gloves that Wade wears in the movie. The cost of haptic gloves is still in the air as only a few companies actually have products that consumers can use, but one company Plexus is selling developer kits for $250 [IO7].
+
+
+Future: Haptic feedback is being developed at an alarming rate, with many early reports of the technology only dating back to 2013. Phycological research indicates that haptic feedback greatly increases the ability for users in VR to immerse and learn from complex tasks [IO8]. A large driving force for the development of haptic VR feedback is the medical community, which is starting to use VR technology to train surgeons with simulations prior to surgery, and found that haptic feedback greatly fosters the surgeon’s learning [IO9]. It’s hard to say whether this technology will be advanced as the one in the movie, because according to sources about current technology within 27 years it will definitely improve to be similar to the movie depiction, but the cost is unknown. There are currently very few products to base a cost guess on and there is no research on the cost of haptic technology at the moment, only private businesses researching it themselves. 
+
+![[13]](assets/HaptxGloves.jpg)
+<sup><sub> https://www.engadget.com/2017/11/20/haptx-gloves-vr/ <sup><sub>
+  
+</details>
+  
   - ### Virtual Currency
     - Exists in many apps and games in the form of in-game currency and used for in-game purchases, directly connected to real world money, money is used to purchase the in-game currency through a store.
     - Due to the world-wide use of the in-game currency, the movie’s virtual currency could resemble today’s cryptocurrencies. Cryptocurrencies are based on block-chain technology and use cryptography to ensure fairness in the system[3]. Cryptocurrencies have a value in real world dollars, but most are not able to be converted directly.
@@ -27,15 +132,13 @@ Scroll down to learn more about *Ready Player One* and its relation to computing
     - There are currently prosthetics that can be controlled using signals from the brain, but the current state of the technology is far from the state of control in *Ready Player One*
 
 ## Emerging
- - ### Control Technology with Mind
-    - Omni-Directional Treadmill
+
  - ### Virtual Reality Headset with Computing Power
     - Current VR technology uses headsets that connect to a desktop to process the VR
     - Other VR headsets allow for a phone to be used in a VR headset, but the computing power is limited and far weaker than shown in the movie
  - ### Emotion Detection
     - Microsoft has created an Emotion API to read emotion, but it is still in development
- - ### Haptic Feedback
-    - Startup company HaptX has created a prototype that contains hundreds of pressurized pockets of air to simulate feeling in VR
+
  - ### Casual Drone Deliveries
     - Amazon is developing drone technology to be used for prime deliveries
     
@@ -143,6 +246,58 @@ Words from movie people about computing and their movie...
 9. http://static.atimes.com/uploads/2018/02/iStock-886003872-630x378.jpg
 
 10. https://media.boingboing.net/wp-content/uploads/2018/01/VrChat-seizure.jpg
+
+VR1. Kuchera, B. (2016, January 5). Nvidia: Virtual reality requires seven times the power of a normal game. Retrieved September 25, 2018, from https://www.polygon.com/2016/1/5/10719326/nvidia-virtual-reality-performance-power 
+
+VR2. Sherman, W., & Craig, A. (2003). Understanding virtual reality interface, application, and design . Amsterdam ; Morgan Kaufmann Publishers.
+
+VR3. Nvidia. (n.d.). GeForce GTX 970 Specifications. Retrieved September 25, 2018, from https://www.geforce.com/hardware/desktop-gpus/geforce-gtx-970/specifications 
+
+VR4. Intel. (n.d.). Intel Core i5-4950 Processor. Retrieved September 25, 2018, from https://ark.intel.com/products/80815/Intel-Core-i5-4590-Processor-6M-Cache-up-to-3_70-GHz 
+
+VR5. Understanding Smartphones Specs. (2017, December 28). Retrieved September 25, 2018, from http://androiddeveloper.galileo.edu/2017/12/28/understanding-smartphones-specs/ 
+
+VR6. Notebook Check. (n.d.). Qualcomm Adreno 530. Retrieved September 25, 2018, from https://www.notebookcheck.net/Qualcomm-Adreno-530.156189.0.html 
+
+VR7. Ackerman, D. (2016, June 25). The real cost of virtual reality. Retrieved September 25, 2018, from https://www.cnet.com/news/the-real-cost-of-virtual-reality/ 
+
+VR8. Loudenback, T. (2017, September 12). Middle-class Americans made more money last year than ever before. Retrieved September 25, 2018, from https://www.businessinsider.com/us-census-median-income-2017-9 
+
+VR9. Bureau of Labor Statistics. (2015, October 13). Long-term prices trends for computers, TVs, and related items. Retrieved September 25, 2018, from https://www.bls.gov/opub/ted/2015/long-term-price-trends-for-computers-tvs-and-related-items.htm 
+
+VR10. Neiger, C. (2016, September 8). Virtual reality is too expensive for most people — but that's about to change. Retrieved September 25, 2018, from https://www.businessinsider.com/why-is-virtual-reality-so-expensive-2016-9 
+
+FS1. Karev, K. (2018, January 22). Behold The Next Generation VR Technology: Part 1 - Facial Tracking. Retrieved September 25, 2018, from https://hackernoon.com/behold-the-next-generation-vr-technology-part-1-facial-tracking-cd839eaa6697 
+
+FS2. Lkaris, E., & Bedat, A. (2018, January 31). Virtual Reality, Augmented Reality & Biometric Data after 2017. Retrieved September 25, 2018, from https://klarislaw.com/wp-content/uploads/klarislaw-virtual-reality-augmented-reality-biometric-data-after-2017.pdf?t=20180131 
+
+FS3. ACLU. (n.d.). Face Recognition Technology. Retrieved September 25, 2018, from https://www.aclu.org/issues/privacy-technology/surveillance-technologies/face-recognition-technology 
+
+FS4. Shulte, E. (2017, November 14). Object and Facial Recognition in Augmented and Virtual Reality : Investigation into Software, Hardware and Potential Uses. Retrieved September 25, 2018, from https://ntrs.nasa.gov/archive/nasa/casi.ntrs.nasa.gov/20170011671.pdf 
+
+FS5. Robertson, A. (2017, April 13). This VR face mask can read your emotions. Retrieved September 25, 2018, from https://www.theverge.com/2017/4/13/15251616/mindmaze-mask-vr-face-expression-reading-sensors 
+
+    
+IO1. Souman, J., Giordano, P., Schwaiger, M., Frissen, I., Thümmel, T., Ulbrich, H., Luca, A., et al. (2011). CyberWalk: Enabling unconstrained omnidirectional walking through virtual environments. ACM Transactions on Applied Perception (TAP), 8(4), 1–22. doi:10.1145/2043603.2043607
+
+IO2. Ruddle, R., Volkova, E., & Bulthoff, H. (2011). Walking improves your cognitive map in environments that are large-scale and large in extent. Retrieved from http://eprints.whiterose.ac.uk/74327/6/ruddler2.pdf
+
+IO3. Leatham, J. (2018, April 5). VR Omnidirectional Treadmills Making Gains Towards Full Immersion and Cardio. Retrieved September 25, 2018, from https://www.vrfitnessinsider.com/vr-omnidirectional-treadmills-making-gains-towards-full-immersion-and-cardio/ 
+
+IO4. Harrison, Crowell, Faughn, Tran, & Wiley (2006). Improvements in the Omni-Directional Treadmill:Summary Report and Recommendations for Future Development. Retrieved from
+http://www.dtic.mil/dtic/tr/fulltext/u2/a456606.pdf
+
+IO5. Pettersson, & Svensson. (n.d.). Haptic Feedback. Retrieved September 25, 2018, from https://www.diva-portal.org/smash/get/diva2:139544/FULLTEXT01.pdf 
+
+IO6. Haptx. (2017, November 20). HaptX Logo TECHNOLOGY PARTNERS CAREERS PRESS BLOG CONTACT US AxonVR is now HaptX, announces first haptic gloves to deliver realistic touch in virtual reality. Retrieved September 25, 2018, from https://haptx.com/press-release-haptx-glove/ 
+
+IO7. Hayden, S. (2018, July 3). Plexus is a VR Glove With Finger Haptics & Multiple Tracking Standards, $250 Dev Kits Coming Soon. Retrieved September 25, 2018, from https://www.roadtovr.com/plexus-vr-glove-finger-haptics-multiple-tracking-standards-250-dev-kit-pre-orders-now-available/ 
+
+IO8. Sigrist, R., Rauter, G., Marchal-Crespo, L., Riener, R., & Wolf, P. (n.d.). Sonification and haptic feedback in addition to visual feedback enhances complex motor task learning. (Report). Experimental Brain Research, 233(3), 909–925. doi:10.1007/s00221-014-4167-7
+
+IO9. Vapenstad, C., Hofstad, E., Lango, T., Marvik, R., & Chmarra, M. (n.d.). Perceiving haptic feedback in virtual reality simulators.(Report). Surgical Endoscopy, 27(7), 2391–7. doi:10.1007/s00464-012-2745-y
+
+
 
 
 Made with love by broke college students.
