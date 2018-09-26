@@ -8,11 +8,6 @@ Scroll down to learn more about *Ready Player One* and its relation to computing
    <sup><sub>https://www.copperberg.com/mika-karaila-discusses-virtual-reality/<sub><sup>
 
 ### VR Technology 
-  <details> 
-  <summary>
-   Expand
-  </summary>
-  
 Current State of VR:
   
 Virtual Reality technology is a growing phenomenon currently gated by the requirement of a moderately strong pc [VR1]. The following specs are required to run oculus VR on “minimum settings”: Nvidia GTX 970, Intel i5-4950, 8gb+ RAM [VR1]. These parts aren’t top of the line but the cost of VR also includes the environment needed to run the VR. All interactive VR environments require controllers or input devices on top of the headset required to display the image to the user [VR2]. 
@@ -38,13 +33,8 @@ Current specs of a smartphone:
 
 Visual shows that yes in 27 years we will probably have the technology to run VR on headsets with computational power built in based on current specs and the trend of technology growth up until now.
 
-</details>
-
 ### Cost of VR 
-  <details> 
-  <summary>
-   Expand
-  </summary>
+
 Current: Nvidia estimates that 99% of computers in 2016 couldn’t run VR programs [VR10]. Therefore a VR setup currently costs $600-800 for the VR equipment and another $1000-2000 for the computer that can run the VR programs [VR7]. The range of the computer is from $1000 which are the minimum requirements and up to $2000 for a computer with recommended requirements [VR7]. This means the buy in for VR is around $1700 dollars for entry level, and with evolving program requirements it would be much safer to buy in at $2700. 
   
   
@@ -61,14 +51,7 @@ visual
    
 Using these sources it is possible that in the future families of all income level may afford VR as seen in Ready Player One. There is ample evidence that the cost of VR will continually decline until 2045, with no evidence against it currently. Unless an unforeseen trend in increasing technology cost occurs, almost every consumer in the near future will be able to afford a VR setup.
 
-</details>
-
-   ## Facial Scanning
-  <details>
-    <summary>
-      Expand
-  </summary>
-
+## Facial Scanning
 
 Current: Facial Scanning technology currently isn’t advanced enough to be used in conjunction with VR as shown in the movie [FS1]. This is because most VR headsets don’t have enough space to have the receptors and space necessary to store facial images [FS1]. However in early 2018 VR headsets with eye tracking capabilities alongside with theorized emotion scanning mean this technology is commercially just around the corner [FS2]. This technology is already causing concerns for some organization such as the ACLU which argues this technology can be used to track private individuals and some researchers agree with this sentiment that VR facial tracking allows a company to record what grabs consumers attention and other metrics in a private environment that can be used for advertising [FS2] [FS3].
 
@@ -77,19 +60,12 @@ Future: Facial Scanning technology is waiting on the hardware to be developed be
 
 
 
-</details>
-
-
 ![[8]](assets/facial_scanning.jpg)
   
 ## I/O Devices
 
 
 ### Omnidirectional Treadmill
-<details>
-  <summary>
-    Expand
-    </summary>
 Current: Omnidirectional treadmills are currently being developed based off recent research that shows the viability of such a method for virtual reality [IO1]. Recent psychological research shows that omnidirectional treadmills actually improves cognitive understanding of the surrounding area [IO2]. Currently omnidirectional treadmills are being developed in two ways, one where there is no harness and therefore movement is freeform, this proves to be very hard in practice as movement away from the center has to be detected immediately, which is why many companies are using harnesses to secure safety [IO3]. 
 
 
@@ -99,13 +75,11 @@ Future: Ongoing research is required to determine a safer and faster way to dete
 ![[12]](assets/ready-player-one-OT.jpg)
 
 <sup><sub> https://variety.com/2018/digital/news/ready-player-one-vr-tech-1202739419/ <sup><sub>
-</details>
+   
+
   
 ### Haptic Feedback
-<details>
-  <summary>
-    Expand
-  </summary>
+
 Current:Haptic feedback technology is currently in its early stages of development, many researchers are interested in what promise the technology holds [IO5]. There are very few examples of haptic technology currently as many are still being developed, but HaptX announced their haptic gloves which use hundred of mini air pockets that compress and decompress through software to generate pressure and feeling in the hands [IO6]. Currently these gloves are large and bulky, but don’t look too far off aesthetically from the gloves that Wade wears in the movie. The cost of haptic gloves is still in the air as only a few companies actually have products that consumers can use, but one company Plexus is selling developer kits for $250 [IO7].
 
 
@@ -114,14 +88,13 @@ Future: Haptic feedback is being developed at an alarming rate, with many early 
 ![[13]](assets/HaptxGloves.jpg)
 <sup><sub> https://www.engadget.com/2017/11/20/haptx-gloves-vr/ <sup><sub>
   
-</details>
   
-  - ### Virtual Currency
-    - Exists in many apps and games in the form of in-game currency and used for in-game purchases, directly connected to real world money, money is used to purchase the in-game currency through a store.
+  ### Virtual Currency
+   - Exists in many apps and games in the form of in-game currency and used for in-game purchases, directly connected to real world money, money is used to purchase the in-game currency through a store.
     - Due to the world-wide use of the in-game currency, the movie’s virtual currency could resemble today’s cryptocurrencies. Cryptocurrencies are based on block-chain technology and use cryptography to ensure fairness in the system[3]. Cryptocurrencies have a value in real world dollars, but most are not able to be converted directly.
     ![[9]](assets/virtual_currency.jpg)
-  - ### VR MMO
-    - Communities of VR users have been a phenomenon since 2017 as seen in games such as VRChat. VR communities are in their early stages but many players are joining them and creating their own persona online. VR MMOs are currently gated behind having a strong PC to play as they require a decent amount of processing power[4].
+  ### VR MMO
+   - Communities of VR users have been a phenomenon since 2017 as seen in games such as VRChat. VR communities are in their early stages but many players are joining them and creating their own persona online. VR MMOs are currently gated behind having a strong PC to play as they require a decent amount of processing power[4].
     ![[10]](assets/vr_mmo.jpg)
 
 ## Future
