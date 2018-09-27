@@ -89,14 +89,15 @@ Future: Haptic feedback is being developed at an alarming rate, with many early 
 <sup><sub> https://www.engadget.com/2017/11/20/haptx-gloves-vr/ <sup><sub>
   
   
-  ### Virtual Currency
+### Virtual Currency
    - Exists in many apps and games in the form of in-game currency and used for in-game purchases, directly connected to real world money, money is used to purchase the in-game currency through a store.
-    - Due to the world-wide use of the in-game currency, the movie’s virtual currency could resemble today’s cryptocurrencies. Cryptocurrencies are based on block-chain technology and use cryptography to ensure fairness in the system[3]. Cryptocurrencies have a value in real world dollars, but most are not able to be converted directly.
-    ![[9]](assets/virtual_currency.jpg)
-  ### VR MMO
+   - Due to the world-wide use of the in-game currency, the movie’s virtual currency could resemble today’s cryptocurrencies. Cryptocurrencies are based on block-chain technology and use cryptography to ensure fairness in the system[3]. Cryptocurrencies have a value in real world dollars, but most are not able to be converted directly.
+   ![[9]](assets/virtual_currency.jpg)
+   
+### VR MMO
    - Communities of VR users have been a phenomenon since 2017 as seen in games such as VRChat. VR communities are in their early stages but many players are joining them and creating their own persona online. VR MMOs are currently gated behind having a strong PC to play as they require a decent amount of processing power[4].
     ![[10]](assets/vr_mmo.jpg)
-
+    
 ## Future
  - ### Complete VR Immersion
     - Complete VR Immersion is currently being researched and developed by many VR companies attempting to overcome the weaknesses of VR. Currently many forms of VR are extremely limiting in what the user can do based on current technology restraints, but many researchers are starting to look at ways to improve how current VR technology is used. Using newer ideas with exsisting technology, such as force extension, and object impersonation [5]. Force extension will allow users to interact with objects based on force of gesture, creating a more realistic environment and object impersonation allows for users to interact with specific objects in a cluttered space by dissociating user into other object frames.
@@ -158,9 +159,32 @@ While the government is not involved in the OASIS, the IOI’s loyalty center se
 
 The omnipresent surveillance drones from IOI also makes people have almost no privacy in the real world as long as IOI know one’s identity. Watt was tracked all the time by the drones after he let them know his name. That means he has no privacy as long as IOI knows his identity and that also puts him in danger.
 ## Computer and Network Security - Ch.7
-The virtual currencies in the movie could be stolen if the server operating OASIS was attacked. A security flaw in OASIS log off protocol allowed for “hackers” to prevent users from logging off. OASIS only uses 1 factor authentication allowing for susceptibility and account loss.
+#### What is at risk?
+
+The OASIS coin, the virtual currency in the movie which is tied to a player’s character. The coin itself becomes part of the real world economy over time and companies like IOI hire or force people to earn coins for them. 
+Anything that a player owns in-game and their character itself is at risk. If they were somehow hacked they would have to start over with their character similar to the effect of their avatar dying in the game.
+While most players hide themselves by adopting new identities in the OASIS, there is some information tied to their account that could be at risk. For example, when Wade ordered the haptic suit it had to have record of his address.
+The integrity of a game can be compromised by security risks. There could be unwanted exploits that can be taken advantage of.
+
+#### Hacking
+
+Aech uses an exploit to prevent Sorrento from logging off from the OASIS and convinces him that he did log off by projecting a realistic simulation. 
+Sorrento’s gaming rig only uses 1 factor authentication and Wade can hack Sorrento through the password that he saw written on the inside.
+
+
+#### Ethical Evaluation
+By using the exploit to hack Sorrento, Wade is able to get Samantha out of her chamber at IOI. 
+From a Kantian point of view, Wade and the others violate the integrity of the game and also put emotional stress on Sorrento by making him believe he was in real life and had guns pointed at him. Using an exploit on Sorrento to achieve the ends of freeing Samantha is not ethical from the Kantian perspective.
+From the Utilitarian perspective we must add all of the positive and negative outcomes. The negative outcome is using an exploit to harm someone, in this case being Sorrento. The positive outcome is that Samantha can be free and out of harm’s way. While Sorrento had the intent to have Samantha killed eventually, the weight of her life outweighs emotional stress caused to Sorrento. Based on these weights, Wade’s actions were ethical from a Utilitarian point of view.
+From the virtue ethics perspective, the judgment that Wade and the other makes to hack Sorrento to save Samantha would be seen as a moral action because they put her life first.
+Samantha is able to hack Sorrento’s rig using his password to take down the force field on Planet Doom
+From the Kantian point of view, Samantha violates Sorrento’s privacy and uses his property as a means to an end. Therefore, Samantha is not ethical in the Kantian perspective. 
+From the Utilitarian perspective, the negative outcome is that Sorrento’s privacy is violated and there is a positive outcome for all of the players that are against IOI. From the Utilitarian view, Samantha is being ethical because her actions have a positive effect on more people outweighing the negative.
+From the virtue ethics perspective, the outcome that Samantha wanted was for the players to obtain the egg so that IOI would not control the OASIS. This action would be considered ethical from a virtue ethics perspective.
+
 ## Computer Reliability - Ch.8
-Let's talk...
+While the OASIS has essentially become the real world for people it is important for the system to be secure and reliable. A game of this scale should have to be properly maintained especially due to the implications that it is not. There is a major security flaw that people could exploit to prevent someone from logging off. While it is unclear whether or not whether the developers were aware of this, they should have followed good testing practices to ensure that there was no critical flaw in the software. Most major games today use patches to add new features and fix bugs. To perform maintenance, a game is usually taken offline to make necessary changes. With the amount of time people spend in the OASIS and how it has become part of their lives it may have been difficult for the developers to schedule maintenance. However, even one critical flaw in the game should warrant the game being temporarily shut down. The movie shows the implications of this when the protagonists hack Sorrento with this security flaw.
+
 ## Work and Wealth - Ch.10
 Let's talk...
 
