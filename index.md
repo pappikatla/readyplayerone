@@ -1,6 +1,33 @@
 Welcome to the CS3043 group project site for *Ready Player One*!  
 Scroll down to learn more about *Ready Player One* and its relation to computing technologies.
 
+# Table of Contents
+- [Computing Technologies](#computing-technologies)
+  * [Virtual Reality](#virtual-reality)
+  * [Facial Scanning](#facial-scanning)
+  * [I/O Devices](#io-devices)
+  * [Future](#future)
+  * [Emerging](#emerging)
+  * [Impossible](#impossible)
+- [Topics Covered](#topics-covered)
+  * [Networked Communications - Ch.3](#networked-communications---ch3)
+  * [Intellectual Property - Ch.4](#intellectual-property---ch4)
+  * [Information Property - Ch.5](#information-property---ch5)
+  * [Privacy and the Government - Ch.6](#privacy-and-the-government---ch6)
+  * [Computer and Network Security - Ch.7](#computer-and-network-security---ch7)
+  * [Computer Reliability - Ch.8](#computer-reliability---ch8)
+  * [Work and Wealth - Ch.10](#work-and-wealth---ch10)
+- [Plot Time Line](#plot-time-line)
+    + [Pre-2040](#pre-2040)
+    + [2040](#2040)
+    + [2045](#2045)
+    + [Post-Egg](#post-egg)
+- [Movie Makers' Intent in Regards to Computing](#movie-makers-intent-in-regards-to-computing)
+- [Societal Conclusions](#societal-conclusions)
+- [Meeting Minutes](#meeting-minutes)
+- [Resources](#resources)
+- [References](#references)
+
 # Computing Technologies
 ## Virtual Reality
    ![[7]](assets/VirtualRealityExample.jpg)
