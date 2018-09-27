@@ -243,6 +243,8 @@ Lastly, the movie discusses the role of the government in privacy. While there w
 - [9/6 Meeting Minutes](Meeting_Minutes/9_6MeetingMinutes.pdf)
 - [9/17 Meeting Minutes](Meeting_Minutes/MeetingMinutes9_17_18.pdf)
 - [9/22 Meeting Minutes](Meeting_Minutes/Minutes%209_22_18.pdf)
+- [9/24 Meeting Minutes](Meeting_Minutes/9%252F24%20Meeting%20Minutes.pdf)
+- [9/26 Meeting Minutes](Meeting_Minutes/9%252F26%20Meeting%20Minutes.pdf)
 
 ---
 # Resources   
