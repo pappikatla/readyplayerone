@@ -229,9 +229,14 @@ Watts and Samantha Cook (Art3mis in real life) move in together.
 
 ---
 # Societal Conclusions
-1. Conclusion 1
-2. Conclusion 2
-3. Conclusion 3
+The movie depicts a society adopting a false world as their own. Games can provide an escape for players through entertainment [6]. Some believe that it is a superior form of escape because it is participatory [6]. The people in the OASIS use it as a means to escape their harsh realities. Over time, the game becomes more realistic to players as they adopt new identities and aspects of the game even become part of society such as the in-game currency becoming a global currency. 
+
+There are several societal implications of a completely digital world. First, the movie touches on the area of communication. The OASIS works to close off the outside world for players seeking an escape. Most communication is done through the game and in that way it can be equated to how society communicates face-to-face less today. However, the implication is that players become so absorbed into the game that there is no focus on changing the status of the real world. In the end, Wade shuts down the OASIS two days a week to encourage people to experience the world outside the OASIS. 
+
+Another topic that the movie brings up is privacy. In today’s society, people post information about themselves on social media. Contrary to this, in the OASIS people form new identities to remain anonymous. In a way this adds a layer of privacy to all players. However, with minimal connections to their real identity, players can still find their privacy compromised. While Wade gave up his real name, other members of the “High Five” were discovered through other information. The only one that could not be found was Aech because her avatar did not match her gender. Overall, this is similar to how easy it is to find information online about someone today by knowing small pieces of information about them. 
+
+Lastly, the movie discusses the role of the government in privacy. While there was no formal government present in the movie, the IOI takes on that role. One part which showed this was how they tracked all of the members of the “High Five.” The information they were able to gather from the game combined with facial scanning, surveillance drones allowed IOI to track them. The government in today’s society also collects some surveillance data although not to the caliber as shown in the movie.
+
 
 ---
 # Meeting Minutes
