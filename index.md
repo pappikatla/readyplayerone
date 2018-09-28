@@ -6,9 +6,8 @@ Scroll down to learn more about *Ready Player One* and its relation to computing
   * [Virtual Reality](#virtual-reality)
   * [Facial Scanning](#facial-scanning)
   * [I/O Devices](#io-devices)
-  * [Future](#future)
-  * [Emerging](#emerging)
-  * [Impossible](#impossible)
+  * [Virtual Currency](#virtual-currency)
+  * [Copying Over Subconscious](#copying-over-subconscious)
 - [Topics Covered](#topics-covered)
   * [Networked Communications - Ch.3](#networked-communications---ch3)
   * [Intellectual Property - Ch.4](#intellectual-property---ch4)
@@ -116,37 +115,27 @@ Future: Haptic feedback is being developed at an alarming rate, with many early 
 <sup><sub> https://www.engadget.com/2017/11/20/haptx-gloves-vr/ <sup><sub>
   
   
-### Virtual Currency
-   - Exists in many apps and games in the form of in-game currency and used for in-game purchases, directly connected to real world money, money is used to purchase the in-game currency through a store.
-   - Due to the world-wide use of the in-game currency, the movie’s virtual currency could resemble today’s cryptocurrencies. Cryptocurrencies are based on block-chain technology and use cryptography to ensure fairness in the system[3]. Cryptocurrencies have a value in real world dollars, but most are not able to be converted directly.
-   ![[9]](assets/virtual_currency.jpg)
-   
-### VR MMO
-   - Communities of VR users have been a phenomenon since 2017 as seen in games such as VRChat. VR communities are in their early stages but many players are joining them and creating their own persona online. VR MMOs are currently gated behind having a strong PC to play as they require a decent amount of processing power[4].
-    ![[10]](assets/vr_mmo.jpg)
-    
-## Future
- - ### Complete VR Immersion
-    - Complete VR Immersion is currently being researched and developed by many VR companies attempting to overcome the weaknesses of VR. Currently many forms of VR are extremely limiting in what the user can do based on current technology restraints, but many researchers are starting to look at ways to improve how current VR technology is used. Using newer ideas with exsisting technology, such as force extension, and object impersonation [5]. Force extension will allow users to interact with objects based on force of gesture, creating a more realistic environment and object impersonation allows for users to interact with specific objects in a cluttered space by dissociating user into other object frames.
-    
- - ### Control Technology with Mind
-    - There are currently prosthetics that can be controlled using signals from the brain, but the current state of the technology is far from the state of control in *Ready Player One*
+## Virtual Currency
+- Exists in many apps and games in the form of in-game currency
+- Due to the world-wide use of the in-game currency, the movie’s virtual currency could resemble today’s cryptocurrencies
+- There has been a strong rise in the number of digital currencies over the past year and this trend seems to be continuing up
+- There are concerns about the scalability of online currencies especially if it were to take over as the main type of currencies. Currently Credit card companies can handle 56,000 transactions per second and consistently deal with 2,000 tps, bitcoin is designed to process 7 tps meaning it would have to scale at least 250 fold to have the smallest chance of success
+- Energy costs of mining bitcoin are high, already close to $7,000 and set to double. Market prices would need to rise consistently to make it profitable for miners to maintain the network
+- If these technical problems can be figured out, then online currency may stay at the top
+- Trends: User base doubles every 12 months, so in 10 years it would be fully adapted but adaptations don't follow trends exactly so 26 years would be a better estimate
 
-## Emerging
+   ![[9]](assets/virtualcurrencygrowthovertime.png)
+      
+## Copying Over Subconscious
+- 100 trillion connections in the brain so if each equals 1 bit, that would equal 12.5 Terabytes of fast storage needed to recreate the brain, or if using bytes for added infrastructure = 100 Terabytes
+- This is comparable to today’s supercomputers but have a price tag of $97 million
+- Adding in the flexibility of the brain to change as well as overhead memory systems could bring the total amount of needed fast memory to a Petabyte
+- It is within the realm of possibility that by 2045 the computing power will be accessible to do this especially for people with enough wealth as James Halliday
+- Questions of ethics will have to be addressed along the way but its not mainstream in ready player one so those questions may be asked later, (based on Wade’s reaction to it, it is a very new technology)
+- Already a startup pitching a mind uploading service called Nectome, but says it will not exactly be you
+- This could also be accelerated if he used a combined amount from each device on the OASIS, because currently Brain estimated computing power= 10^18 FLOPS, Computing power of world currently = 10^23 FLOPS
 
- - ### Virtual Reality Headset with Computing Power
-    - Current VR technology uses headsets that connect to a desktop to process the VR
-    - Other VR headsets allow for a phone to be used in a VR headset, but the computing power is limited and far weaker than shown in the movie
- - ### Emotion Detection
-    - Microsoft has created an Emotion API to read emotion, but it is still in development
-
- - ### Casual Drone Deliveries
-    - Amazon is developing drone technology to be used for prime deliveries
-    
-## Impossible
- - ### Amount of Copyright Licenses Used to Create Worlds, Avatars, Items, etc.
- - ### Hyper-realistic 3D Memory Segments from Past Videos, Documents, etc.
-
+  ![[10]](assets/singularitygraph.png)
 
 ---
 # Topics Covered
