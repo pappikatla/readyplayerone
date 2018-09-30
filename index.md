@@ -343,6 +343,8 @@ IO8. Sigrist, R., Rauter, G., Marchal-Crespo, L., Riener, R., & Wolf, P. (n.d.).
 IO9. Vapenstad, C., Hofstad, E., Lango, T., Marvik, R., & Chmarra, M. (n.d.). Perceiving haptic feedback in virtual reality simulators.(Report). Surgical Endoscopy, 27(7), 2391–7. doi:10.1007/s00464-012-2745-y
 
 R1. Doug Barney, Single Password = Security Failure: How Two-Factor Authentication Saves the Day, (26 Sep. 2018) https://www.kaseya.com/blog/2016/10/14/single-password-security-failure-how-two-factor-authentication-saves-the-day/
+
 R2. Erik Davis, EXCLUSIVE INTERVIEW: STEVEN SPIELBERG ON ‘READY PLAYER ONE’ AND THE FUTURE OF VIRTUAL REALITY, (22 Sep. 2018) https://www.fandango.com/movie-news/exclusive-interview-steven-spielberg-on-ready-player-one-and-the-future-of-virtual-reality-753091
+
 R3. Josh Rottenberg, ‘Ready Player One’s’ Steven Spielberg and Ernest Cline on pooling their nostalgia to tell a new story, (26 Sep. 2018) http://www.latimes.com/entertainment/movies/la-ca-mn-ready-player-one-spielberg-cline-20180323-htmlstory.html
 Made with love by broke college students.
