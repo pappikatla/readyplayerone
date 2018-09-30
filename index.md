@@ -95,7 +95,10 @@ Future: Facial Scanning technology is waiting on the hardware to be developed be
 Current: Omnidirectional treadmills are currently being developed based off recent research that shows the viability of such a method for virtual reality [IO1]. Recent psychological research shows that omnidirectional treadmills actually improves cognitive understanding of the surrounding area [IO2]. Currently omnidirectional treadmills are being developed in two ways, one where there is no harness and therefore movement is freeform, this proves to be very hard in practice as movement away from the center has to be detected immediately, which is why many companies are using harnesses to secure safety [IO3]. 
 
 
-Future: Ongoing research is required to determine a safer and faster way to detect a user’s position deviating from the center [IO4]. There are many theories about how to solve this issue and many companies already have prototype treadmills that have a strong detection system but require further testing before products can become commercially safe. Unfortunately compared to the movie it doesn’t look possible to have the technology they have, as shown in picture below, the lack of size of the treadmill would make it very hard for the treadmill to determine distance away from middle without launching user into a wall.
+Future: Ongoing research is required to determine a safer and faster way to detect a user’s position deviating from the center [IO4]. There are many theories about how to solve this issue and many companies already have prototype treadmills that have a strong detection system but require further testing before products can become commercially safe. 
+
+ 
+ It is likely that we would have omnidirectional treadmills similar to the one displayed in the movie based on the current state of technology already being quite similar.
 
 
 ![[12]](assets/ready-player-one-OT.jpg)
