@@ -161,7 +161,7 @@ Since the OASIS is so popular in world of Ready Player One, players’ reliance 
 
 At the end of the movie, Halliday suggests his avatar is a copy of his subconscious. Because of the lack of this technology, one may wonder how the 70 years after author’s death copyright law works when dealing with the subconscious of another person. Is the author still alive because he can produce? Or is the author simply dead?
 
-## Information Property - Ch.5
+## Information Privacy - Ch.5
 Players preserve their identity in the OASIS by using aliases. Information only gets out if people reveal their identity. Wade reveals his real name putting him and his family in danger. Someone was tracked easily by first name without government resources.
 
 #### Players preserve their identity in the OASIS by using aliases
