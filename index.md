@@ -81,14 +81,17 @@ Using these sources it is possible that in the future families of all income lev
 
 ## Facial Scanning
 
-Current: Facial Scanning technology currently isn’t advanced enough to be used in conjunction with VR as shown in the movie [FS1]. This is because most VR headsets don’t have enough space to have the receptors and space necessary to store facial images [FS1]. However in early 2018 VR headsets with eye tracking capabilities alongside with theorized emotion scanning mean this technology is commercially just around the corner [FS2]. This technology is already causing concerns for some organization such as the ACLU which argues this technology can be used to track private individuals and some researchers agree with this sentiment that VR facial tracking allows a company to record what grabs consumers attention and other metrics in a private environment that can be used for advertising [FS2] [FS3].
+Current: Facial Scanning technology currently isn’t advanced enough to be used in conjunction with VR as shown in the movie [FS1]. This is because most VR headsets don’t have enough space to have the receptors and space necessary to store facial images [FS1]. However in early 2018 VR headsets with eye tracking capabilities alongside with theorized emotion scanning mean this technology is commercially just around the corner [FS2]. This technology is already causing concerns for some organization such as the ACLU which argues this technology can be used to track private individuals and some researchers agree with this sentiment that VR facial tracking allows a company to record what grabs consumers attention and other metrics in a private environment that can be used for advertising [FS2] [FS3]. Current facial scanning technology can only capture around 40-50 unique identification points that are then used in reanimated said face in a computer [FS6]. The FPS of reanimation of this technology in 2003 was 20fps, this number has increased with hardware and software improvements to currently be around 30fps [FS6][FS7]. 
 
 
-Future: Facial Scanning technology is waiting on the hardware to be developed because there are already multiple software applications and SDKs that allow for facial or emotional scanning, and the reason they aren’t as advanced as they could be is the lack of data [FS4]. Depending on the product, some VR headsets already have emotional reading implemented in the form of electrodes that detect pressures of the user’s face and then match that with 10 pre-configured facial expressions [FS5]. The accuracy of this technology can be increased simply through calibration and continued use [FS5]. Therefore in 2045 it is very likely that the facial scanning and recognition in a VR headset will be as sophisticated as in Ready Player One.
+Future: Facial Scanning technology is waiting on the hardware to be developed because there are already multiple software applications and SDKs that allow for facial or emotional scanning, and the reason they aren’t as advanced as they could be is the lack of data [FS4]. Depending on the product, some VR headsets already have emotional reading implemented in the form of electrodes that detect pressures of the user’s face and then match that with 10 pre-configured facial expressions [FS5]. The accuracy of this technology can be increased simply through calibration and continued use [FS5]. Therefore in 2045 it is very likely that the facial scanning and recognition in a VR headset will be as sophisticated as in Ready Player One. It's interesting to note however that facial reanimation based off this technology may not be advanced as presented in the movie as the growth in animation of 10fps took around 12 years [FS6][FS7], and therefore if we assume the facial reanimation was at 60fps in the movie it still could be years away in 2045 from being reality.
+
 
 
 
 ![[FS6]](assets/facial_scanning.jpg)
+
+<sup><sub> https://www.lifewire.com/how-does-a-computer-recognize-your-face-4154178 <sup><sub>
   
 ## I/O Devices
 
@@ -312,7 +315,9 @@ FS4. Shulte, E. (2017, November 14). Object and Facial Recognition in Augmented 
 
 FS5. Robertson, A. (2017, April 13). This VR face mask can read your emotions. Retrieved September 25, 2018, from https://www.theverge.com/2017/4/13/15251616/mindmaze-mask-vr-face-expression-reading-sensors 
 
-FS6. https://www.lifewire.com/how-does-a-computer-recognize-your-face-4154178
+FS6. Li, H., Yu, J., Ye, Y., & Bregler, C. (2013). Realtime facial animation with on-the-fly correctives. ACM Trans. Graph., 32(4), 42-1.
+
+FS7. Chai, J. X., Xiao, J., & Hodgins, J. (2003, July). Vision-based control of 3d facial animation. In Proceedings of the 2003 ACM SIGGRAPH/Eurographics symposium on Computer animation (pp. 193-206). Eurographics Association.
 
     
 IO1. Souman, J., Giordano, P., Schwaiger, M., Frissen, I., Thümmel, T., Ulbrich, H., Luca, A., et al. (2011). CyberWalk: Enabling unconstrained omnidirectional walking through virtual environments. ACM Transactions on Applied Perception (TAP), 8(4), 1–22. doi:10.1145/2043603.2043607
