@@ -1,7 +1,7 @@
 Welcome to the CS3043 group project site for *Ready Player One*!  
 Scroll down to learn more about *Ready Player One* and its relation to computing technologies.
 
-# [Link to Presentation](https://drive.google.com/file/d/1wOzbGntj0TeMFygq1aiFhGgvR9dC7WmY/view)
+# [Presentation](rpo.pptx)
 # Table of Contents
 - [Computing Technologies](#computing-technologies)
   * [Virtual Reality](#virtual-reality)
