@@ -12,7 +12,7 @@ Scroll down to learn more about *Ready Player One* and its relation to computing
 - [Topics Covered](#topics-covered)
   * [Networked Communications - Ch.3](#networked-communications---ch3)
   * [Intellectual Property - Ch.4](#intellectual-property---ch4)
-  * [Information Property - Ch.5](#information-property---ch5)
+  * [Information Privacy - Ch.5](#information-privacy---ch5)
   * [Privacy and the Government - Ch.6](#privacy-and-the-government---ch6)
   * [Computer and Network Security - Ch.7](#computer-and-network-security---ch7)
   * [Computer Reliability - Ch.8](#computer-reliability---ch8)
@@ -70,11 +70,12 @@ The median household income of a U.S. family is $59,000 [VR8]. So comparing the 
 
 Future: 
 Looking at graph [VR9] it's obvious that the cost of personal computers and peripherals has been on the decline. This means that following this trend in 27 years in the future these products will be very cheap [VR9]. As more and more companies start to develop VR technology the cost has continually gone down, now consumers may use their smartphone instead of a computer, this means the VR quality is lower but the fact remains the VR buy in is cheaper [VR10]. 
-visual
+
 
 
    ![[12]](assets/TechCostOverTime.jpg)
    
+   <sub> The y axis on this graph is consumer price index, the base year or denominator in equation is 1997 <sub>
    
 Using these sources it is possible that in the future families of all income level may afford VR as seen in Ready Player One. There is ample evidence that the cost of VR will continually decline until 2045, with no evidence against it currently. Unless an unforeseen trend in increasing technology cost occurs, almost every consumer in the near future will be able to afford a VR setup.
 
@@ -87,7 +88,7 @@ Future: Facial Scanning technology is waiting on the hardware to be developed be
 
 
 
-![[8]](assets/facial_scanning.jpg)
+![[FS6]](assets/facial_scanning.jpg)
   
 ## I/O Devices
 
@@ -278,25 +279,6 @@ Lastly, the movie discusses the role of the government in privacy. While the mov
 - [Ready Player One IMDB](https://www.imdb.com/title/tt1677720/)
 
 # References
-1. Sherman, W., & Craig, A. (2003). Understanding virtual reality interface, application, and design . Amsterdam ; Morgan Kaufmann Publishers.
-
-2. Rennels, J., & Cummings, A. (n.d.). Sex Differences in Facial Scanning: Similarities and Dissimilarities between Infants and Adults. International Journal of Behavioral Development, 37(2), 111–117. doi:10.1177/0165025412472411
-
-3. Milutinović, M. (2017). CRYPTOCURRENCY. Ekonomika, 64(1), 105–122. doi:10.5937/ekonomika1801105M
-
-4. Kinney, T. (2018). Internet Explained: The wacky world of VRChat. UWIRE Text. Uloop Inc.
-
-5. Wang, J., & Lindeman, R. (2015). Hybrid and Coordinated 3D Interaction in Immersive Virtual Environments. Worcester Polytechnic Institute, Worcester, MA.
-
-6. Federoff, M. A. (2002). Heuristics and usability guidelines for the creation and evaluation of fun in video games (Doctoral dissertation, Indiana University).
-
-7. https://en.wikipedia.org/wiki/Virtual_reality#/media/File:Reality_check_ESA384313.jpg 
-
-8. https://www.lifewire.com/how-does-a-computer-recognize-your-face-4154178
-
-9. http://static.atimes.com/uploads/2018/02/iStock-886003872-630x378.jpg
-
-10. https://media.boingboing.net/wp-content/uploads/2018/01/VrChat-seizure.jpg
 
 VR1. Kuchera, B. (2016, January 5). Nvidia: Virtual reality requires seven times the power of a normal game. Retrieved September 25, 2018, from https://www.polygon.com/2016/1/5/10719326/nvidia-virtual-reality-performance-power 
 
@@ -327,6 +309,8 @@ FS3. ACLU. (n.d.). Face Recognition Technology. Retrieved September 25, 2018, fr
 FS4. Shulte, E. (2017, November 14). Object and Facial Recognition in Augmented and Virtual Reality : Investigation into Software, Hardware and Potential Uses. Retrieved September 25, 2018, from https://ntrs.nasa.gov/archive/nasa/casi.ntrs.nasa.gov/20170011671.pdf 
 
 FS5. Robertson, A. (2017, April 13). This VR face mask can read your emotions. Retrieved September 25, 2018, from https://www.theverge.com/2017/4/13/15251616/mindmaze-mask-vr-face-expression-reading-sensors 
+
+FS6. https://www.lifewire.com/how-does-a-computer-recognize-your-face-4154178
 
     
 IO1. Souman, J., Giordano, P., Schwaiger, M., Frissen, I., Thümmel, T., Ulbrich, H., Luca, A., et al. (2011). CyberWalk: Enabling unconstrained omnidirectional walking through virtual environments. ACM Transactions on Applied Perception (TAP), 8(4), 1–22. doi:10.1145/2043603.2043607
