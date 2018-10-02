@@ -48,12 +48,14 @@ Current specs required to run VR:
 - The base clock speed for the gtx 970 is around 1050MHz[VR3]
 - The base clock speed for the i5-4950 is 3.3GHz [VR4]
 - 8 GBs of RAM needed
+- Average size of desktop 18 inches tall, 8 inches wide, and 24-30 inches deep [VR11].
 
 
 Current specs of a smartphone:
 - Current phones have around 1.8-2Ghz processor speed [VR5]
 - Many phones have 4GBs of RAM [VR5]
 - Currently smart phones don’t use dedicated graphics cards and instead use on board chips such as the Adreno 530 found in many high end android phones, and it has a processing clock speed around 650 MHz [VR6]. 
+- Average size of a smartphone, screen size around 5.3-5.4 inches and .3-.4 inches deep [VR12].
 
   ![[11]](assets/mobileprocessingtime.jpeg)
 <sup><sub> https://www.androidauthority.com/smartphone-performance-improvements-timeline-626109/ <sub><sup>
@@ -304,6 +306,10 @@ VR8. Loudenback, T. (2017, September 12). Middle-class Americans made more money
 VR9. Bureau of Labor Statistics. (2015, October 13). Long-term prices trends for computers, TVs, and related items. Retrieved September 25, 2018, from https://www.bls.gov/opub/ted/2015/long-term-price-trends-for-computers-tvs-and-related-items.htm 
 
 VR10. Neiger, C. (2016, September 8). Virtual reality is too expensive for most people — but that's about to change. Retrieved September 25, 2018, from https://www.businessinsider.com/why-is-virtual-reality-so-expensive-2016-9 
+
+VR11. Chacos. (2018, January). How to buy the perfect PC case. Retrieved October 2, 2018, from https://www.pcworld.com/article/3226748/computers/how-to-buy-pc-case.html
+
+VR12. Mobile Device Size. (2017, September). Mobile Device Size Comparison. Retrieved October 2, 2018, from https://mobiledevicesize.com/compare/#903;1
 
 FS1. Karev, K. (2018, January 22). Behold The Next Generation VR Technology: Part 1 - Facial Tracking. Retrieved September 25, 2018, from https://hackernoon.com/behold-the-next-generation-vr-technology-part-1-facial-tracking-cd839eaa6697 
 
