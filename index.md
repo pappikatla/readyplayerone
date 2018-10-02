@@ -30,6 +30,10 @@ Scroll down to learn more about *Ready Player One* and its relation to computing
 
 # Computing Technologies
 ## Virtual Reality
+
+Virutal Reality(VR) technology is an exciting new avenue for computing. While VR is not a new topic and has existed in academic literature and science fiction novels for years now the technology to run this software is finally avaliable to consumers. Ready Player One presents a reality in which everyone, regardless of income level, has access to virtual reality. This generates a bunch of pros and cons that are discussed later on the webpage(see movie maker's intent). This section deals with the logistics of growing VR technology, will VR technology be as advanced as presented in the movie within the next 27 years, and will everyone be able to afford it as shown in the movie.
+
+
    ![[7]](assets/VirtualRealityExample.jpg)
    
    <sup><sub>https://www.copperberg.com/mika-karaila-discusses-virtual-reality/<sub><sup>
@@ -83,6 +87,8 @@ Using these sources it is possible that in the future families of all income lev
 
 ## Facial Scanning
 
+The topic of facial scanning can already be seen all around us in the real world. Apple unveiled the iPhone X has facial scanning unlock features, and many other companies are utilizing facial scanning as a biometric. The facial scanning presented here looks at real time continuous facial scanning, and reanimating those captured images on a computer. It turns out human faces are quite complex and therefore most forms of facial scanning approximate as opposed to storing every single features of a human face.
+
 Current: Facial Scanning technology currently isn’t advanced enough to be used in conjunction with VR as shown in the movie [FS1]. This is because most VR headsets don’t have enough space to have the receptors and space necessary to store facial images [FS1]. However in early 2018 VR headsets with eye tracking capabilities alongside with theorized emotion scanning mean this technology is commercially just around the corner [FS2]. This technology is already causing concerns for some organization such as the ACLU which argues this technology can be used to track private individuals and some researchers agree with this sentiment that VR facial tracking allows a company to record what grabs consumers attention and other metrics in a private environment that can be used for advertising [FS2] [FS3]. Current facial scanning technology can only capture around 40-50 unique identification points that are then used in reanimated said face in a computer [FS6]. The FPS of reanimation of this technology in 2003 was 20fps, this number has increased with hardware and software improvements to currently be around 30fps [FS6][FS7]. 
 
 
@@ -97,6 +103,7 @@ Future: Facial Scanning technology is waiting on the hardware to be developed be
   
 ## I/O Devices
 
+VR interface devices allow users to simulate their senses through technology without actually interacting with anything but a computer and peripherals. Why would people use I/O devices that could harm them? Haptic feedback gloves could generate sensations of pain, and omnidirectional treadmills could cause users to fall and injure themselves. These downsides are vastly outweighed by the strenths of these technologies. As indicated below in sections about each technology, VR interface devices increased user immersion in VR. They allow users to fully utilize most of their senses, which in turn improves their cognitive behavior meaning everything feels more realistic because your body and mind are being decieved to believe it is. 
 
 ### Omnidirectional Treadmill
 Current: Omnidirectional treadmills are currently being developed based off recent research that shows the viability of such a method for virtual reality [IO1]. Recent psychological research shows that omnidirectional treadmills actually improves cognitive understanding of the surrounding area [IO2]. Currently omnidirectional treadmills are being developed in two ways, one where there is no harness and therefore movement is freeform, this proves to be very hard in practice as movement away from the center has to be detected immediately, which is why many companies are using harnesses to secure safety [IO3]. 
